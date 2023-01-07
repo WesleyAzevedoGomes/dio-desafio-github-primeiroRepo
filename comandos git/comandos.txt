@@ -1,0 +1,19 @@
+git init: Inicializa um novo repositório Git em um diretório existente.
+
+git clone: Clona um repositório existente em outro lugar.
+
+git add: Adiciona arquivos para serem rastreados pelo Git.
+
+git commit: Grava as alterações realizadas nos arquivos rastreados pelo Git em um ponto de histórico.
+
+git push: Envia as alterações para o repositório remoto.
+
+git pull: Baixa as alterações do repositório remoto e as mescla com o ramo atual.
+
+git branch: Gerencia ramos (linhas de desenvolvimento) no repositório.
+
+git merge: Mescla um ramo com outro.
+
+git stash: Armazena temporariamente as alterações não rastreadas para que você possa mudar de ramo.
+
+git log: Mostra o histórico de commit do repositório.
